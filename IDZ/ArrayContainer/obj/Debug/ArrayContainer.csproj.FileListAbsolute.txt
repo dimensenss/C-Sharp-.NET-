@@ -1,0 +1,14 @@
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ArrayContainer\obj\Debug\ArrayContainer.csproj.AssemblyReference.cache
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ArrayContainer\obj\Debug\ArrayContainer.csproj.CoreCompileInputs.cache
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ArrayContainer\bin\Debug\ArrayContainer.dll.config
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ArrayContainer\bin\Debug\ArrayContainer.dll
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ArrayContainer\bin\Debug\ArrayContainer.pdb
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ArrayContainer\bin\Debug\IProduct.dll
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ArrayContainer\bin\Debug\ProductLibrary.dll
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ArrayContainer\bin\Debug\IProduct.pdb
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ArrayContainer\bin\Debug\IProduct.dll.config
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ArrayContainer\bin\Debug\ProductLibrary.pdb
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ArrayContainer\bin\Debug\ProductLibrary.dll.config
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ArrayContainer\obj\Debug\ArrayContainer.csproj.CopyComplete
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ArrayContainer\obj\Debug\ArrayContainer.dll
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ArrayContainer\obj\Debug\ArrayContainer.pdb

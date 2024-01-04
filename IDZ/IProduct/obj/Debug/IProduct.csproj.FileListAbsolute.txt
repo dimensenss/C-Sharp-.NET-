@@ -1,0 +1,7 @@
+C:\Users\khomos\Source\Repos\dimensenss\4_Semestr\C#\IDZ\IProduct\obj\Debug\IProduct.csproj.AssemblyReference.cache
+C:\Users\khomos\Source\Repos\dimensenss\4_Semestr\C#\IDZ\IProduct\obj\Debug\IProduct.csproj.CoreCompileInputs.cache
+C:\Users\khomos\Source\Repos\dimensenss\4_Semestr\C#\IDZ\IProduct\bin\Debug\IProduct.dll.config
+C:\Users\khomos\Source\Repos\dimensenss\4_Semestr\C#\IDZ\IProduct\bin\Debug\IProduct.dll
+C:\Users\khomos\Source\Repos\dimensenss\4_Semestr\C#\IDZ\IProduct\bin\Debug\IProduct.pdb
+C:\Users\khomos\Source\Repos\dimensenss\4_Semestr\C#\IDZ\IProduct\obj\Debug\IProduct.dll
+C:\Users\khomos\Source\Repos\dimensenss\4_Semestr\C#\IDZ\IProduct\obj\Debug\IProduct.pdb

@@ -1,0 +1,8 @@
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\Client\bin\Debug\Client.exe.config
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\Client\bin\Debug\Client.exe
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\Client\bin\Debug\Client.pdb
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\Client\obj\Debug\Client.exe
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\Client\obj\Debug\Client.pdb

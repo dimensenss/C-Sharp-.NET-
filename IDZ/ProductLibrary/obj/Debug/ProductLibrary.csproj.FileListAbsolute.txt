@@ -1,0 +1,11 @@
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ProductLibrary\obj\Debug\ProductLibrary.csproj.AssemblyReference.cache
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ProductLibrary\obj\Debug\ProductLibrary.csproj.CoreCompileInputs.cache
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ProductLibrary\bin\Debug\ProductLibrary.dll.config
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ProductLibrary\bin\Debug\ProductLibrary.dll
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ProductLibrary\bin\Debug\ProductLibrary.pdb
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ProductLibrary\bin\Debug\IProduct.dll
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ProductLibrary\bin\Debug\IProduct.pdb
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ProductLibrary\bin\Debug\IProduct.dll.config
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ProductLibrary\obj\Debug\ProductLibrary.csproj.CopyComplete
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ProductLibrary\obj\Debug\ProductLibrary.dll
+C:\Users\khomos\source\repos\dimensenss\4_Semestr\C#\IDZ\ProductLibrary\obj\Debug\ProductLibrary.pdb
